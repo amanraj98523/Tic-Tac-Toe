@@ -54,12 +54,10 @@ Tic-Tac-Toe-Game/
 - **New Game:** Click the "New Game" button to reset the board and start a new match.
 
 ## Desktop View
-![Screenshot 2024-10-23 124857](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-0.png)
-![Screenshot 2024-10-23 124449](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-1.png)
-![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-2.png)
-![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-22.png)
-![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-3.png)
-![Screenshot 2024-10-23 124514](https://github.com/amanraj98523/Bill-Splitter-App/blob/main/pic-4.png)
+![Screenshot 2024-11-05 124857](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p1.png)
+![Screenshot 2024-11-05 124449](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p2.png)
+![Screenshot 2024-11-05 124514](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p2.png)
+
 
 ## Contributors
 - Contributor:- [Aman Raj](https://github.com/amanraj98523)
