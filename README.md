@@ -56,7 +56,7 @@ Tic-Tac-Toe-Game/
 ## Desktop View
 ![Screenshot 2024-11-05 124857](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p1.png)
 ![Screenshot 2024-11-05 124449](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p2.png)
-![Screenshot 2024-11-05 124514](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p2.png)
+![Screenshot 2024-11-05 124514](https://github.com/amanraj98523/Tic-Tac-Toe/blob/main/p3.png)
 
 
 ## Contributors
